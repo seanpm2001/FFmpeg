@@ -1,3 +1,5 @@
+![FFmpeg_Logo_new.svg](FFmpeg_Logo_new.svg)
+
 FFmpeg README
 =============
 
